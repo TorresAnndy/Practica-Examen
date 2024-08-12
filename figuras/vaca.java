@@ -1,3 +1,5 @@
+package figuras;
+
 public class vaca {
   public static void impresionvaca()
   {

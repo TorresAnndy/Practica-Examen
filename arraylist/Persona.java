@@ -1,3 +1,5 @@
+package arraylist;
+
 public class Persona {
   private int num;
   private String nombre;
